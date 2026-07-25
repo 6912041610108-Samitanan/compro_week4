@@ -7,11 +7,11 @@ int main() {
 
     // Ask user to input all valus at once
     printf("Samitanan, 18, and 1.62 A: ");
-    scanf("%c %d %f", &name, &age, &height); //Read multiple inputs at once
+    scanf("%s %d %f", &name, &age, &height); //Read multiple inputs at once
 
     // Display the entered values
     printf("You entered:\n");
-    printf("Name = %c\n", name);
+    printf("Name = %s\n", name);
     printf("Age = %d years\n",age);
     printf("Height = %.2f meters\n", height);
 
