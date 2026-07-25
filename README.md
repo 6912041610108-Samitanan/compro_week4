@@ -1,7 +1,7 @@
 #include <studio.h>
 
-int mait() {
-    int name;
+int main() {
+    char name[30];
     float age;
     char height;
 
