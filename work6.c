@@ -17,3 +17,6 @@ int main() {
     printf("r2 = %d\n", r2); // Output: 1
     printf("r3 = %.2f\n", r3); // Output: 15.00
     printf("r4 = %.2f\n", r4); // Output: 1.00
+
+    return 0;
+}
